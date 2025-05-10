@@ -1,0 +1,1482 @@
+
+{
+  "Apple": [
+    "Pear",
+    "Banana",
+    "Grape"
+  ],
+  "Banana": [
+    "Apple",
+    "Mango",
+    "Strawberry"
+  ],
+  "Orange": [
+    "Tangerine",
+    "Lemon",
+    "Grapefruit"
+  ],
+  "Pear": [
+    "Apple",
+    "Grape",
+    "Peach"
+  ],
+  "Strawberry": [
+    "Raspberry",
+    "Blueberry",
+    "Banana"
+  ],
+  "Blueberry": [
+    "Blackberry",
+    "Strawberry",
+    "Yogurt"
+  ],
+  "Cherry": [
+    "Grape",
+    "Plum",
+    "Strawberry"
+  ],
+  "Grape": [
+    "Raisins",
+    "Apple",
+    "Pear"
+  ],
+  "Peach": [
+    "Apricot",
+    "Nectarine",
+    "Pear"
+  ],
+  "Pineapple": [
+    "Mango",
+    "Coconut",
+    "Papaya"
+  ],
+  "Mango": [
+    "Pineapple",
+    "Banana",
+    "Peach"
+  ],
+  "Kiwi": [
+    "Mango",
+    "Strawberry",
+    "Apple"
+  ],
+  "Watermelon": [
+    "Honeydew",
+    "Grape",
+    "Strawberry"
+  ],
+  "Honeydew": [
+    "Watermelon",
+    "Cantaloupe",
+    "Pineapple"
+  ],
+  "Lemon": [
+    "Lime",
+    "Orange",
+    "Vinegar"
+  ],
+  "Lime": [
+    "Lemon",
+    "Mint",
+    "Orange"
+  ],
+  "Tomato": [
+    "Pepper",
+    "Cucumber",
+    "Mozzarella"
+  ],
+  "Cucumber": [
+    "Lettuce",
+    "Apple",
+    "Carrot"
+  ],
+  "Carrot": [
+    "Celery",
+    "Cucumber",
+    "Pepper"
+  ],
+  "Pepper": [
+    "Tomato",
+    "Zucchini",
+    "Eggplant"
+  ],
+  "Broccoli": [
+    "Cauliflower",
+    "Zucchini",
+    "Peas"
+  ],
+  "Cauliflower": [
+    "Broccoli",
+    "Cabbage",
+    "Carrots"
+  ],
+  "Zucchini": [
+    "Eggplant",
+    "Pepper",
+    "Mushrooms"
+  ],
+  "Spinach": [
+    "Chard",
+    "Broccoli",
+    "Zucchini"
+  ],
+  "Lettuce": [
+    "Iceberg lettuce",
+    "Arugula",
+    "Lamb's lettuce"
+  ],
+  "Arugula": [
+    "Lettuce",
+    "Lamb's lettuce",
+    "Tomato"
+  ],
+  "Iceberg lettuce": [
+    "Lettuce",
+    "Romaine lettuce",
+    "Cucumber"
+  ],
+  "Leek": [
+    "Onion",
+    "Leek",
+    "Garlic"
+  ],
+  "Onion": [
+    "Garlic",
+    "Leek",
+    "Shallots"
+  ],
+  "Garlic": [
+    "Onion",
+    "Ginger",
+    "Chili"
+  ],
+  "Ginger": [
+    "Garlic",
+    "Turmeric",
+    "Lemon"
+  ],
+  "Potato": [
+    "Sweet potato",
+    "Rice",
+    "Pasta"
+  ],
+  "Sweet potato": [
+    "Potato",
+    "Pumpkin",
+    "Carrots"
+  ],
+  "Pumpkin": [
+    "Sweet Potato",
+    "Zucchini",
+    "Carrot"
+  ],
+  "Eggplant": [
+    "Zucchini",
+    "Pepper",
+    "Tomato"
+  ],
+  "Mushroom": [
+    "Oyster Mushroom",
+    "Porcine",
+    "Onion"
+  ],
+  "Radish": [
+    "Cucumber",
+    "Carrot",
+    "Radish"
+  ],
+  "Pea": [
+    "Corn",
+    "Carrot",
+    "Potato"
+  ],
+  "Corn": [
+    "Peas",
+    "Peas",
+    "Beans"
+  ],
+  "Bean": [
+    "Lentils",
+    "Chickpeas",
+    "Corn"
+  ],
+  "Lentils": [
+    "Beans",
+    "Peas",
+    "Rice"
+  ],
+  "Rice": [
+    "Couscous",
+    "Quinoa",
+    "Bulgur"
+  ],
+  "Pasta": [
+    "Rice",
+    "Spaghetti",
+    "Gnocchi"
+  ],
+  "Couscous": [
+    "Quinoa",
+    "Bulgur",
+    "Rice"
+  ],
+  "Quinoa": [
+    "Couscous",
+    "Lentils",
+    "Rice"
+  ],
+  "Bread": [
+    "Roll",
+    "Toast",
+    "Baguette"
+  ],
+  "Toast": [
+    "Bread",
+    "Sandwich",
+    "Butter"
+  ],
+  "Roll": [
+    "Croissant",
+    "Toast",
+    "Bread"
+  ],
+  "Croissant": [
+    "Roll",
+    "Jam",
+    "Butter"
+  ],
+  "Muesli": [
+    "Oatmeal",
+    "Cornflakes",
+    "Milk"
+  ],
+  "Cornflakes": [
+    "Muesli",
+    "Oatmeal",
+    "Yogurt"
+  ],
+  "Yogurt": [
+    "Quark",
+    "Milk",
+    "Fruit"
+  ],
+  "Milk": [
+    "Soy milk",
+    "Almond milk",
+    "Oat milk"
+  ],
+  "Oat milk": [
+    "Soy milk",
+    "Almond milk",
+    "Coconut milk"
+  ],
+  "Soy milk": [
+    "Oat milk",
+    "Rice milk",
+    "Milk"
+  ],
+  "Cheese": [
+    "Cream cheese",
+    "Mozzarella",
+    "Feta"
+  ],
+  "Cream cheese": [
+    "Cheese",
+    "Quark",
+    "Butter"
+  ],
+  "Quark": [
+    "Yogurt",
+    "Cream cheese",
+    "Berries"
+  ],
+  "Butter": [
+    "Margarine",
+    "Cream Cheese",
+    "Oil"
+  ],
+  "Margarine": [
+    "Butter",
+    "Oil",
+    "Spread"
+  ],
+  "Eggs": [
+    "Tofu",
+    "Omelet",
+    "Milk"
+  ],
+  "Chicken": [
+    "Turkey",
+    "Beef",
+    "Tofu"
+  ],
+  "Turkey": [
+    "Chicken",
+    "Pork",
+    "Fish"
+  ],
+  "Beef": [
+    "Pork",
+    "Chicken",
+    "Lamb"
+  ],
+  "Pork": [
+    "Beef",
+    "Turkey",
+    "Sausage"
+  ],
+  "Salmon": [
+    "Tuna",
+    "Trout",
+    "Shrimp"
+  ],
+  "Tuna": [
+    "Salmon",
+    "Sardines",
+    "Mackerel"
+  ],
+  "Trout": [
+    "Salmon",
+    "Zander",
+    "Shrimp"
+  ],
+  "Shrimp": [
+    "Salmon",
+    "Squid",
+    "Fish Sticks"
+  ],
+  "Fish Sticks": [
+    "Salmon",
+    "French Fries",
+    "Ketchup"
+  ],
+  "Tofu": [
+    "Tempeh",
+    "Seitan",
+    "Eggs"
+  ],
+  "Tempeh": [
+    "Tofu",
+    "Lentils",
+    "Soybeans"
+  ],
+  "Falafel": [
+    "Hummus",
+    "Couscous",
+    "Salad"
+  ],
+  "Pizza": [
+    "Lasagna",
+    "Pasta",
+    "Salad"
+  ],
+  "Lasagna": [
+    "Pizza",
+    "Cannelloni",
+    "Bolognese"
+  ],
+  "Burger": [
+    "French Fries",
+    "Hot dog",
+    "Coke"
+  ],
+  "Hot dog": [
+    "Burger",
+    "Sausage",
+    "Mustard"
+  ],
+  "Fries": [
+    "Burger",
+    "Ketchup",
+    "Mayonnaise"
+  ],
+  "Chips": [
+    "Nuts",
+    "Popcorn",
+    "Crackers"
+  ],
+  "Pretzel Sticks": [
+    "Chips",
+    "Crackers",
+    "Nuts"
+  ],
+  "Popcorn": [
+    "Chips",
+    "Gummy Bears",
+    "Coke"
+  ],
+  "Cookies": [
+    "Chocolate",
+    "Muffin",
+    "Cake"
+  ],
+  "Chocolate": [
+    "Gummy Bears",
+    "Cookies",
+    "Bar"
+  ],
+  "Gummy Bears": [
+    "Chocolate",
+    "Candy",
+    "Licorice"
+  ],
+  "Ice Cream": [
+    "Cake",
+    "Waffle",
+    "Yogurt"
+  ],
+  "Cake": [
+    "Cake",
+    "Muffin",
+    "Cookies"
+  ],
+  "Muffin": [
+    "Cake",
+    "Brownie",
+    "Donut"
+  ],
+  "Donot": [
+    "Muffin",
+    "Berliner",
+    "Krapfen"
+  ],
+  "Ketchup": [
+    "Mayonnaise",
+    "Mustard",
+    "Curry Sauce"
+  ],
+  "Mayonnaise": [
+    "Ketchup",
+    "Remoulade",
+    "Mustard"
+  ],
+  "Mustard": [
+    "Ketchup",
+    "Horseradish",
+    "Mayonnaise"
+  ],
+  "Honey": [
+    "Jam",
+    "Nutella",
+    "Butter"
+  ],
+  "Jam": [
+    "Honey",
+    "Nutella",
+    "Croissant"
+  ],
+  "Nutella": [
+    "Jam",
+    "Honey",
+    "Toast"
+  ],
+  "Oil": [
+    "Vinegar",
+    "Butter",
+    "Margarine"
+  ],
+  "Vinegar": [
+    "Oil",
+    "Lemon",
+    "Mustard"
+  ],
+  "Salt": [
+    "Pepper",
+    "Herbs",
+    "Paprika"
+  ],
+  "Water": [
+    "Apple Juice",
+    "Sparkling Water",
+    "Iced Tea"
+  ],
+  "Apple Juice": [
+    "Orange Juice",
+    "Water",
+    "Grape Juice"
+  ],
+  "Papaya": [
+    "Chicken",
+    "Cod",
+    "Hazelnut"
+  ],
+  "Cantaloupe": [
+    "Lollipop",
+    "Iceberg Lettuce",
+    "Mango"
+  ],
+  "Lychee": [
+    "Dill",
+    "Cucumber",
+    "Jerusalem Artichoke"
+  ],
+  "Date": [
+    "Iced Tea",
+    "Paprika Powder",
+    "Prickly Pear"
+  ],
+  "Fig": [
+    "Worcestershire Sauce",
+    "Guacamole",
+    "Pecan"
+  ],
+  "Pomegranate": [
+    "Skyr",
+    "Pak Choi",
+    "Prickly Pear"
+  ],
+  "Guava": [
+    "Margarine",
+    "Beer",
+    "Hemp Seeds"
+  ],
+  "Prickly Pear": [
+    "Savoy Cabbage",
+    "Olive Oil",
+    "Cashew"
+  ],
+  "Passion Fruit": [
+    "Gummy Bears",
+    "Chips",
+    "Pumpkin Seeds"
+  ],
+  "Star Fruit": [
+    "Strawberry",
+    "Iceberg Lettuce",
+    "Beer"
+  ],
+  "Persimmon": [
+    "Pretzel Sticks",
+    "Pistachio",
+    "Goat Cheese"
+  ],
+  "Mirabelle": [
+    "Cumin",
+    "Cardamom",
+    "Teff"
+  ],
+  "Currant": [
+    "Lollipop",
+    "Cod",
+    "Chanterelle"
+  ],
+  "Blackberry": [
+    "Donut",
+    "Apple",
+    "Falafel"
+  ],
+  "Raspberry": [
+    "White Wine",
+    "Zucchini",
+    "Focaccia"
+  ],
+  "Plum": [
+    "Pork",
+    "Pecan",
+    "Strawberry"
+  ],
+  "Celery": [
+    "Sorbet",
+    "Yucca",
+    "Salt"
+  ],
+  "Beetroot": [
+    "Cilantro",
+    "Mayonnaise",
+    "Peanut Butter"
+  ],
+  "Fennel": [
+    "Muffin",
+    "Sweet Potato",
+    "Popcorn"
+  ],
+  "Chicory": [
+    "Cola",
+    "Cream Cheese",
+    "Palatschinken"
+  ],
+  "Endive": [
+    "Espresso",
+    "Kefir",
+    "Enoki"
+  ],
+  "Chard": [
+    "Parsnip",
+    "Barley",
+    "Oregano"
+  ],
+  "White Cabbage": [
+    "Cherry",
+    "Shiitake",
+    "Rosemary"
+  ],
+  "Red Cabbage": [
+    "Cassava",
+    "Avocado Oil",
+    "Aioli"
+  ],
+  "Savoy Cabbage": [
+    "Green Tea",
+    "Green Spelt",
+    "Pine Nuts"
+  ],
+  "Brussels Sprouts": [
+    "Pepper",
+    "Morel",
+    "Falafel"
+  ],
+  "Kale": [
+    "Pear",
+    "Soy Sauce",
+    "Pretzel Sticks"
+  ],
+  "Chinese Cabbage": [
+    "Matcha",
+    "Kefir",
+    "Edamame"
+  ],
+  "Pak Choi": [
+    "Cake",
+    "Carrot",
+    "Oolong"
+  ],
+  "Turnip": [
+    "Clam",
+    "Celery",
+    "Peach"
+  ],
+  "Jerusalem Artichoke": [
+    "Goat Cheese",
+    "Worcestershire Sauce",
+    "Cookies"
+  ],
+  "Yucca": [
+    "Apple Juice",
+    "Soybeans",
+    "Chocolate Bar"
+  ],
+  "Cassava": [
+    "Pineapple",
+    "Kale",
+    "Rosé"
+  ],
+  "Okra": [
+    "White Cabbage",
+    "Chives",
+    "Oil"
+  ],
+  "Sugar Snap Pea": [
+    "Crab",
+    "Bean",
+    "Sparkling Wine"
+  ],
+  "Salsify": [
+    "Spaghetti",
+    "Endive",
+    "Ravioli"
+  ],
+  "Parsnip": [
+    "BBQ Sauce",
+    "Yogurt",
+    "Salt"
+  ],
+  "Basil": [
+    "Ice Cream",
+    "Ciabatta",
+    "Pumpkin"
+  ],
+  "Parsley": [
+    "Squid",
+    "Veen",
+    "Dill"
+  ],
+  "Dill": [
+    "Pak Choi",
+    "Porcini",
+    "Chickpeas"
+  ],
+  "Chives": [
+    "Chia Seeds",
+    "Toast",
+    "Millet"
+  ],
+  "Mint": [
+    "Lime",
+    "Waffle",
+    "Blueberry"
+  ],
+  "Cilantro": [
+    "Chinese Cabbage",
+    "Date",
+    "Venison"
+  ],
+  "Rosemary": [
+    "Skyr",
+    "Porcini",
+    "Lamb"
+  ],
+  "Thyme": [
+    "Paprika",
+    "Lemonade",
+    "Tiramisu"
+  ],
+  "Oregano": [
+    "Soybeans",
+    "White Wine",
+    "Pork"
+  ],
+  "Sage": [
+    "Matcha",
+    "Mint",
+    "Chia Seeds"
+  ],
+  "Cinnamon": [
+    "Watermelon",
+    "Venison",
+    "Danube Wave"
+  ],
+  "Paprika Powder": [
+    "Relish",
+    "Fish Sticks",
+    "Cauliflower"
+  ],
+  "Cumin": [
+    "Rice",
+    "Beer",
+    "Hazelnut"
+  ],
+  "Cardamom": [
+    "Edamame",
+    "Orange",
+    "Mushroom"
+  ],
+  "Nutmeg": [
+    "Pepper",
+    "Cream Cheese",
+    "Sunflower Oil"
+  ],
+  "Chili Flocken": [
+    "Gugelhupf",
+    "Zucchini",
+    "Rye"
+  ],
+  "Turmeric Powder": [
+    "Watermelon",
+    "Rye",
+    "Wild Boar"
+  ],
+  "Clove": [
+    "Pork",
+    "Dill",
+    "Halibut"
+  ],
+  "Bay Leaf": [
+    "Falafel",
+    "Burger",
+    "Cod"
+  ],
+  "Saffron": [
+    "Bay Leaf",
+    "Soy Sauce",
+    "Ginger"
+  ],
+  "Millet": [
+    "Gummy Bears",
+    "Pork",
+    "Shrimp"
+  ],
+  "Buckwheat": [
+    "Bagel",
+    "Spinach",
+    "Kimchi"
+  ],
+  "Barley": [
+    "Zucchini",
+    "Black Tea",
+    "Buttermilk"
+  ],
+  "Spelt": [
+    "Jam",
+    "Pistachio",
+    "Pasta"
+  ],
+  "Rye": [
+    "Rice",
+    "Fruit Tea",
+    "Mayonnaise"
+  ],
+  "Green Spelt": [
+    "Sugar Snap Pea",
+    "Date",
+    "Cassava"
+  ],
+  "Oats": [
+    "Chia Seeds",
+    "Pak Choi",
+    "Yucca"
+  ],
+  "Amaranth": [
+    "Guacamole",
+    "Penne",
+    "Pretzel Sticks"
+  ],
+  "Teff": [
+    "Spaghetti",
+    "Flat White",
+    "Chips"
+  ],
+  "Flax Seeds": [
+    "Paprika",
+    "Mustard",
+    "Teriyaki Sauce"
+  ],
+  "Chia Seeds": [
+    "Cucumber",
+    "Spelt",
+    "Radish"
+  ],
+  "Hemp Seeds": [
+    "Water",
+    "Penne",
+    "Chard"
+  ],
+  "Pumpkin Seeds": [
+    "Farfalle",
+    "Relish",
+    "Cookies"
+  ],
+  "Sunflower Seeds": [
+    "Pumpkin Seeds",
+    "Fish Sticks",
+    "Crumb Cake"
+  ],
+  "Peanut": [
+    "Black Tea",
+    "Garlic",
+    "Espresso"
+  ],
+  "Macadamia": [
+    "Pasta",
+    "Sauerkraut",
+    "Pine Nuts"
+  ],
+  "Brazil Nut": [
+    "Banana",
+    "Lentils",
+    "Oat Milk"
+  ],
+  "Pecan": [
+    "Squid",
+    "Cashew",
+    "White Wine"
+  ],
+  "Pine Nuts": [
+    "Tortellini",
+    "Sunflower Seeds",
+    "Gorgonzola"
+  ],
+  "Pistachio": [
+    "Teriyaki Sauce",
+    "Goat Cheese",
+    "Eggs"
+  ],
+  "Hazelnut": [
+    "Fish Sticks",
+    "Rye",
+    "Kiwi"
+  ],
+  "Walnut": [
+    "Nutella",
+    "Pork",
+    "Pineapple"
+  ],
+  "Almond": [
+    "Peanut",
+    "Water",
+    "Zucchini"
+  ],
+  "Cashew": [
+    "Oyster",
+    "Potato",
+    "Buckwheat"
+  ],
+  "Soybeans": [
+    "Lamb",
+    "Iceberg Lettuce",
+    "Muffin"
+  ],
+  "Chickpeas": [
+    "Lupine",
+    "Bean",
+    "Mackerel"
+  ],
+  "Lupine": [
+    "Leek",
+    "Ciabatta",
+    "Cashew"
+  ],
+  "Edamame": [
+    "Turnip",
+    "Millet",
+    "Matcha"
+  ],
+  "Goat Cheese": [
+    "Tagliatelle",
+    "Oysters",
+    "Jam"
+  ],
+  "Sheep Cheese": [
+    "Lime",
+    "Tagliatelle",
+    "Snow Pea"
+  ],
+  "Gouda": [
+    "Pepper",
+    "Buttermilk",
+    "Sweet Potato"
+  ],
+  "Emmental": [
+    "Chickpeas",
+    "Muesli",
+    "Beef"
+  ],
+  "Camembert": [
+    "Honeydew Melon",
+    "Walnut",
+    "Mango"
+  ],
+  "Brie": [
+    "Mustard",
+    "Cod",
+    "Cherry"
+  ],
+  "Parmesan": [
+    "Amaranth",
+    "Penne",
+    "Green Tea"
+  ],
+  "Pecorino": [
+    "Lollipop",
+    "Crumb Cake",
+    "Rice"
+  ],
+  "Gorgonzola": [
+    "Iceberg Lettuce",
+    "Coconut Oil",
+    "Goose"
+  ],
+  "Ricotta": [
+    "Okra",
+    "Lemon",
+    "Guacamole"
+  ],
+  "Mascarpone": [
+    "Muesli",
+    "Rice",
+    "Pumpkin Seeds"
+  ],
+  "Kefir": [
+    "Chickpeas",
+    "Cornflakes",
+    "Gugelhupf"
+  ],
+  "Skyr": [
+    "Tomato",
+    "Chips",
+    "Guacamole"
+  ],
+  "Buttermilk": [
+    "Oregano",
+    "Carrot",
+    "Apple"
+  ],
+  "Lamb": [
+    "Parmesan",
+    "Peanut",
+    "Popcorn"
+  ],
+  "Veal": [
+    "Cappuccino",
+    "Burger",
+    "Chocolate"
+  ],
+  "Wild Boar": [
+    "Mayonnaise",
+    "Cookies",
+    "Red Cabbage"
+  ],
+  "Veen": [
+    "Chia Seeds",
+    "Watermelon",
+    "Pretzel"
+  ],
+  "Venison": [
+    "Veen",
+    "Zucchini",
+    "Plum"
+  ],
+  "Duck": [
+    "White Cabbage",
+    "Rosemary",
+    "Chia Seeds"
+  ],
+  "Goose": [
+    "Donut",
+    "Endive",
+    "Almond"
+  ],
+  "Cod": [
+    "Plum",
+    "Gummy Bears",
+    "Crab"
+  ],
+  "Herring": [
+    "Cake",
+    "Goat Cheese",
+    "Beer"
+  ],
+  "Halibut": [
+    "Tofu",
+    "Kefir",
+    "Beer"
+  ],
+  "Mackerel": [
+    "Cherry",
+    "Gummy Bears",
+    "Lemonade"
+  ],
+  "Clam": [
+    "Orange",
+    "Buttermilk",
+    "Ketchup"
+  ],
+  "Oysters": [
+    "Hot Dog",
+    "Pineapple",
+    "Watermelon"
+  ],
+  "Octopus": [
+    "Amaranth",
+    "Soy Sauce",
+    "Banana"
+  ],
+  "Sole": [
+    "Pepper",
+    "Lettuce",
+    "Quark"
+  ],
+  "Plaice": [
+    "Sparkling Wine",
+    "Burger",
+    "Chips"
+  ],
+  "Crab": [
+    "Gorgonzola",
+    "Honeydew",
+    "Sole"
+  ],
+  "Lobster": [
+    "Porcini",
+    "Red Wine",
+    "Pumpkin Seeds"
+  ],
+  "Crayfish": [
+    "Brussels Sprouts",
+    "Tofu",
+    "Goat Cheese"
+  ],
+  "Squid": [
+    "Soy Sauce",
+    "Persimmon",
+    "Sesame Oil"
+  ],
+  "Shiitake": [
+    "Venison",
+    "Pea",
+    "Tuna"
+  ],
+  "Chanterelle": [
+    "Herring",
+    "Beer",
+    "Walnut"
+  ],
+  "Morel": [
+    "Muesli",
+    "Shiitake",
+    "Porcini"
+  ],
+  "Enoki": [
+    "Savoy Cabbage",
+    "Gugelhupf",
+    "Ricotta"
+  ],
+  "Porcini": [
+    "Plum",
+    "Wild Boar",
+    "Chard"
+  ],
+  "Truffle": [
+    "Bagel",
+    "Venison",
+    "Iced Tea"
+  ],
+  "Ciabatta": [
+    "Mushroom",
+    "Pak Choi",
+    "Chives"
+  ],
+  "Focaccia": [
+    "Aioli",
+    "Camembert",
+    "Rapeseed Oil"
+  ],
+  "Baguette": [
+    "Kiwi",
+    "Donauwelle",
+    "Endive"
+  ],
+  "Spaghetti": [
+    "Lamb",
+    "Soy Milk",
+    "Sesame Oil"
+  ],
+  "Ravioli": [
+    "Lettuce",
+    "Pizza",
+    "Lamb"
+  ],
+  "Tortellini": [
+    "Honeydew Melon",
+    "Plaice",
+    "Veal"
+  ],
+  "Tagliatelle": [
+    "Chanterelle",
+    "Oat Milk",
+    "Macaroni"
+  ],
+  "Penne": [
+    "Cannelloni",
+    "Chocolate",
+    "Muffin"
+  ],
+  "Farfalle": [
+    "Brazil Nut",
+    "Donauwelle"
+  ],
+  "Maccheroni": [
+    "Cookies",
+    "Thyme",
+    "Kaiserschmarrn"
+  ],
+  "Cannelloni": [
+    "Quark",
+    "Gouda",
+    "Pine Nuts"
+  ],
+  "Tiramisu": [
+    "Sauerkraut",
+    "Leek",
+    "Papaya"
+  ],
+  "Strudel": [
+    "Jerusalem Artichoke",
+    "Mustard",
+    "Lemonade"
+  ],
+  "Apple Strudel": [
+    "Teff",
+    "Cardamom",
+    "Gorgonzola"
+  ],
+  "Gugelhupf": [
+    "Cauliflower",
+    "Paprika",
+    "Flat White"
+  ],
+  "Donauwelle": [
+    "Shiitake",
+    "Cucumber",
+    "Mackerel"
+  ],
+  "Crumb Cake": [
+    "Parsnip",
+    "Parmesan",
+    "Guava"
+  ],
+  "Panna Cotta": [
+    "Pistachio",
+    "Shrimp",
+    "Trout"
+  ],
+  "Sorbet": [
+    "Cream Cheese",
+    "Soybeans",
+    "Ice Cream"
+  ],
+  "Bagel": [
+    "Lime",
+    "Shiitake",
+    "Cider"
+  ],
+  "Pretzel": [
+    "Veen",
+    "Cannelloni",
+    "Corn"
+  ],
+  "Muesli Bar": [
+    "Bean",
+    "Lobster",
+    "Espresso"
+  ],
+  "Trail Mix": [
+    "Green Tea",
+    "Tofu",
+    "Muffin"
+  ],
+  "Protein Bar": [
+    "Chips",
+    "Guava",
+    "Ice Cream"
+  ],
+  "Macaron": [
+    "Celery",
+    "Lime",
+    "Salsa"
+  ],
+  "Waffle": [
+    "Fish Sticks",
+    "Macaron",
+    "Soybeans"
+  ],
+  "Lollipop": [
+    "Sage",
+    "Sunflower Seeds",
+    "Eggs"
+  ],
+  "Chocolate Bar": [
+    "Halibut",
+    "Okra",
+    "Cookies"
+  ],
+  "Pancakes": [
+    "Pecan",
+    "Oatmeal",
+    "Hemp Seeds"
+  ],
+  "Oatmeal": [
+    "Olive Oil",
+    "Lasagna",
+    "Parmesan"
+  ],
+  "Kaiserschmarrn": [
+    "Black Tea",
+    "Bay Leaf",
+    "Chicory"
+  ],
+  "Palatschinken": [
+    "Pecorino",
+    "Pistachio",
+    "Buttermilk"
+  ],
+  "Porridge": [
+    "Apple Strudel",
+    "Soy Sauce",
+    "Bay Leaf"
+  ],
+  "BBQ Sauce": [
+    "Halibut",
+    "Herring",
+    "Cornflakes"
+  ],
+  "Soy Sauce": [
+    "Chips",
+    "Burger",
+    "Orange"
+  ],
+  "Teriyaki Sauce": [
+    "Lemonade",
+    "Guacamole",
+    "Soy Milk"
+  ],
+  "Pesto": [
+    "Fig",
+    "Soy Sauce",
+    "Cream Cheese"
+  ],
+  "Guacamole": [
+    "Salsify",
+    "Muffin",
+    "Parmesan"
+  ],
+  "Sauerkraut": [
+    "Couscous",
+    "Carrot",
+    "Blueberry"
+  ],
+  "Kimchi": [
+    "Margarine",
+    "Edamame",
+    "Sorbet"
+  ],
+  "Relish": [
+    "Rye",
+    "Cheese",
+    "Ravioli"
+  ],
+  "Salsa": [
+    "Gouda",
+    "Bok Choi",
+    "Muesli Bar"
+  ],
+  "Aioli": [
+    "Radish",
+    "Cookies",
+    "Oolong"
+  ],
+  "Worcestershire Sauce": [
+    "Flat White",
+    "Bean",
+    "Porridge"
+  ],
+  "Peanut Butter": [
+    "Muffin",
+    "Honeydew",
+    "Cake"
+  ],
+  "Olive Oil": [
+    "Pesto",
+    "Halibut",
+    "Guava"
+  ],
+  "Sesame Oil": [
+    "Porcini",
+    "Cod",
+    "Sugar Snap Pea"
+  ],
+  "Coconut Oil": [
+    "Mango",
+    "Shrimp",
+    "Skyr"
+  ],
+  "Avocado Oil": [
+    "Donut",
+    "Truffle",
+    "Beer"
+  ],
+  "Sunflower Oil": [
+    "Leek",
+    "Parmesan",
+    "Quinoa"
+  ],
+  "Rapeseed Oil": [
+    "Cod",
+    "Sunflower Seeds",
+    "Fennel"
+  ],
+  "Espresso": [
+    "Crepes",
+    "Tagliatelle",
+    "Broccoli"
+  ],
+  "Latte Macchiato": [
+    "Panna Cotta",
+    "Milk",
+    "Parsnip"
+  ],
+  "Cappuccino": [
+    "Crepes",
+    "Protein Bar",
+    "Flat White"
+  ],
+  "Americano": [
+    "Veal",
+    "Gugelhupf",
+    "Snow Pea"
+  ],
+  "Flat White": [
+    "Jam",
+    "Radish",
+    "Avocado Oil"
+  ],
+  "Green Tea": [
+    "Goat Cheese",
+    "Cookies",
+    "Turmeric Powder"
+  ],
+  "Black Tea": [
+    "Pizza",
+    "Tagliatelle",
+    "Mushroom"
+  ], 
+  "Herbal Tea": [
+    "Mushroom",
+    "Crumb Cake",
+    "Veal"
+  ],
+  "Fruit Tea": [
+    "Beer",
+    "Halibut",
+    "Green Tea"
+  ],
+  "Oolong": [
+    "Bun",
+    "Sugar Snap Pea",
+    "Sorbet"
+  ],
+  "Matcha": [
+    "Radish",
+    "Cream Cheese",
+    "Cardamom"
+  ],
+  "Beer": [
+    "Falafel",
+    "Lupine",
+    "Croissant"
+  ],
+  "Red Wine": [
+    "Tofu",
+    "Garlic",
+    "Herbal Tea"
+  ],
+  "White Wine": [
+    "Cantaloupe",
+    "Pear",
+    "Tomato"
+  ],
+  "Rosé": [
+    "Cod",
+    "Black Tea",
+    "Protein Bar"
+  ],
+  "Sparkling Wine": [
+    "Soy Milk",
+    "Gugelhupf",
+    "Herbal Tea"
+  ],
+  "Champagne": [
+    "Pistachio",
+    "Pecan",
+    "Muesli"
+  ],
+  "Cider": [
+    "Orange",
+    "White Cabbage",
+    "Celery"
+  ],
+  "Cola": [
+    "Lollipop",
+    "Buckwheat",
+    "Dill"
+  ],
+  "Iced Tea": [
+    "Plum",
+    "Strawberry",
+    "Waffle"
+  ],
+  "Lemonade": [
+    "Cashew",
+    "Porridge",
+    "Brazil Nut"
+  ]
+}

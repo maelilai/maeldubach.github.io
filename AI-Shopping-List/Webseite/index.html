@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meine Einkaufsliste</title>
+  
+  <!-- Externe CSS-Datei -->
+  <link rel="stylesheet" href="/Webseite/styles.css">
+</head>
+<body>
+  <h1>AI Shopping List</h1>
+  
+  <input id="itemInput" type="text" placeholder="Artikel hinzufügen">
+  
+  <!-- Der Button nutzt die Regenbogen-Animation (und ist über CSS gestylt) -->
+  <button class="rainbow-button" onclick="addItem()">Hinzufügen</button>
+  
+  <!-- Neuer Button für den Sprachwechsel ins Englische -->
+  <button id="translateButton" class="rainbow-button">Switch to English</button>
+  
+  <ul id="shoppingList"></ul>
+  <div id="suggestions"></div>
+  
+  <footer>© 2025 - Mael Dubach</footer>
+  
+  <script src="/Webseite/app.js"></script>
+</body>
+</html>

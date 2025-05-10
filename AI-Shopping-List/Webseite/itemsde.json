@@ -1,0 +1,1502 @@
+{
+  "Apfel": [
+    "Birne",
+    "Banane",
+    "Traube"
+  ],
+  "Banane": [
+    "Apfel",
+    "Mango",
+    "Erdbeere"
+  ],
+  "Orange": [
+    "Mandarine",
+    "Zitrone",
+    "Grapefruit"
+  ],
+  "Birne": [
+    "Apfel",
+    "Traube",
+    "Pfirsich"
+  ],
+  "Erdbeere": [
+    "Himbeere",
+    "Heidelbeere",
+    "Banane"
+  ],
+  "Heidelbeere": [
+    "Brombeere",
+    "Erdbeere",
+    "Joghurt"
+  ],
+  "Kirsche": [
+    "Traube",
+    "Pflaume",
+    "Erdbeere"
+  ],
+  "Traube": [
+    "Rosinen",
+    "Apfel",
+    "Birne"
+  ],
+  "Pfirsich": [
+    "Aprikose",
+    "Nektarine",
+    "Birne"
+  ],
+  "Ananas": [
+    "Mango",
+    "Kokosnuss",
+    "Papaya"
+  ],
+  "Mango": [
+    "Ananas",
+    "Banane",
+    "Pfirsich"
+  ],
+  "Kiwi": [
+    "Mango",
+    "Erdbeere",
+    "Apfel"
+  ],
+  "Wassermelone": [
+    "Honigmelone",
+    "Traube",
+    "Erdbeere"
+  ],
+  "Honigmelone": [
+    "Wassermelone",
+    "Cantaloupe",
+    "Ananas"
+  ],
+  "Zitrone": [
+    "Limette",
+    "Orange",
+    "Essig"
+  ],
+  "Limette": [
+    "Zitrone",
+    "Minze",
+    "Orange"
+  ],
+  "Tomate": [
+    "Paprika",
+    "Gurke",
+    "Mozzarella"
+  ],
+  "Gurke": [
+    "Salat",
+    "Apfel",
+    "Karotte"
+  ],
+  "Karotte": [
+    "Sellerie",
+    "Gurke",
+    "Paprika"
+  ],
+  "Paprika": [
+    "Tomate",
+    "Zucchini",
+    "Aubergine"
+  ],
+  "Brokkoli": [
+    "Blumenkohl",
+    "Zucchini",
+    "Erbsen"
+  ],
+  "Blumenkohl": [
+    "Brokkoli",
+    "Kohl",
+    "Karotten"
+  ],
+  "Zucchini": [
+    "Aubergine",
+    "Paprika",
+    "Champignons"
+  ],
+  "Spinat": [
+    "Mangold",
+    "Brokkoli",
+    "Zucchini"
+  ],
+  "Kopfsalat": [
+    "Eisbergsalat",
+    "Rucola",
+    "Feldsalat"
+  ],
+  "Rucola": [
+    "Kopfsalat",
+    "Feldsalat",
+    "Tomate"
+  ],
+  "Eisbergsalat": [
+    "Kopfsalat",
+    "Römersalat",
+    "Gurke"
+  ],
+  "Lauch": [
+    "Zwiebel",
+    "Porree",
+    "Knoblauch"
+  ],
+  "Zwiebel": [
+    "Knoblauch",
+    "Lauch",
+    "Schalotten"
+  ],
+  "Knoblauch": [
+    "Zwiebel",
+    "Ingwer",
+    "Chili"
+  ],
+  "Ingwer": [
+    "Knoblauch",
+    "Kurkuma",
+    "Zitrone"
+  ],
+  "Kartoffel": [
+    "Süßkartoffel",
+    "Reis",
+    "Nudeln"
+  ],
+  "Süßkartoffel": [
+    "Kartoffel",
+    "Kürbis",
+    "Karotten"
+  ],
+  "Kürbis": [
+    "Süßkartoffel",
+    "Zucchini",
+    "Karotte"
+  ],
+  "Aubergine": [
+    "Zucchini",
+    "Paprika",
+    "Tomate"
+  ],
+  "Champignon": [
+    "Austernpilz",
+    "Steinpilz",
+    "Zwiebel"
+  ],
+  "Radieschen": [
+    "Gurke",
+    "Karotte",
+    "Rettich"
+  ],
+  "Erbse": [
+    "Mais",
+    "Möhre",
+    "Kartoffel"
+  ],
+  "Mais": [
+    "Erbsen",
+    "Paprika",
+    "Bohnen"
+  ],
+  "Bohne": [
+    "Linsen",
+    "Kichererbsen",
+    "Mais"
+  ],
+  "Linsen": [
+    "Bohnen",
+    "Erbsen",
+    "Reis"
+  ],
+  "Reis": [
+    "Couscous",
+    "Quinoa",
+    "Bulgur"
+  ],
+  "Nudeln": [
+    "Reis",
+    "Spaghetti",
+    "Gnocchi"
+  ],
+  "Couscous": [
+    "Quinoa",
+    "Bulgur",
+    "Reis"
+  ],
+  "Quinoa": [
+    "Couscous",
+    "Linsen",
+    "Reis"
+  ],
+  "Brot": [
+    "Brötchen",
+    "Toast",
+    "Baguette"
+  ],
+  "Toast": [
+    "Brot",
+    "Sandwich",
+    "Butter"
+  ],
+  "Brötchen": [
+    "Croissant",
+    "Toast",
+    "Brot"
+  ],
+  "Croissant": [
+    "Brötchen",
+    "Marmelade",
+    "Butter"
+  ],
+  "Müsli": [
+    "Haferflocken",
+    "Cornflakes",
+    "Milch"
+  ],
+  "Cornflakes": [
+    "Müsli",
+    "Haferflocken",
+    "Joghurt"
+  ],
+  "Joghurt": [
+    "Quark",
+    "Milch",
+    "Früchte"
+  ],
+  "Milch": [
+    "Sojamilch",
+    "Mandelmilch",
+    "Hafermilch"
+  ],
+  "Hafermilch": [
+    "Sojamilch",
+    "Mandelmilch",
+    "Kokosmilch"
+  ],
+  "Sojamilch": [
+    "Hafermilch",
+    "Reismilch",
+    "Milch"
+  ],
+  "Käse": [
+    "Frischkäse",
+    "Mozzarella",
+    "Feta"
+  ],
+  "Frischkäse": [
+    "Käse",
+    "Quark",
+    "Butter"
+  ],
+  "Quark": [
+    "Joghurt",
+    "Frischkäse",
+    "Beeren"
+  ],
+  "Butter": [
+    "Margarine",
+    "Frischkäse",
+    "Öl"
+  ],
+  "Margarine": [
+    "Butter",
+    "Öl",
+    "Aufstrich"
+  ],
+  "Eier": [
+    "Tofu",
+    "Omelett",
+    "Milch"
+  ],
+  "Huhn": [
+    "Pute",
+    "Rindfleisch",
+    "Tofu"
+  ],
+  "Pute": [
+    "Huhn",
+    "Schweinefleisch",
+    "Fisch"
+  ],
+  "Rindfleisch": [
+    "Schweinefleisch",
+    "Huhn",
+    "Lamm"
+  ],
+  "Schweinefleisch": [
+    "Rindfleisch",
+    "Pute",
+    "Wurst"
+  ],
+  "Lachs": [
+    "Thunfisch",
+    "Forelle",
+    "Garnelen"
+  ],
+  "Thunfisch": [
+    "Lachs",
+    "Sardinen",
+    "Makrele"
+  ],
+  "Forelle": [
+    "Lachs",
+    "Zander",
+    "Garnelen"
+  ],
+  "Garnelen": [
+    "Lachs",
+    "Tintenfisch",
+    "Fischstäbchen"
+  ],
+  "Fischstäbchen": [
+    "Lachs",
+    "Pommes",
+    "Ketchup"
+  ],
+  "Tofu": [
+    "Tempeh",
+    "Seitan",
+    "Eier"
+  ],
+  "Tempeh": [
+    "Tofu",
+    "Linsen",
+    "Sojabohnen"
+  ],
+  "Falafel": [
+    "Hummus",
+    "Couscous",
+    "Salat"
+  ],
+  "Pizza": [
+    "Lasagne",
+    "Pasta",
+    "Salat"
+  ],
+  "Lasagne": [
+    "Pizza",
+    "Cannelloni",
+    "Bolognese"
+  ],
+  "Burger": [
+    "Pommes",
+    "Hotdog",
+    "Cola"
+  ],
+  "Hotdog": [
+    "Burger",
+    "Wurst",
+    "Senf"
+  ],
+  "Pommes": [
+    "Burger",
+    "Ketchup",
+    "Mayonnaise"
+  ],
+  "Chips": [
+    "Nüsse",
+    "Popcorn",
+    "Cracker"
+  ],
+  "Salzstangen": [
+    "Chips",
+    "Cracker",
+    "Nüsse"
+  ],
+  "Popcorn": [
+    "Chips",
+    "Gummibärchen",
+    "Cola"
+  ],
+  "Kekse": [
+    "Schokolade",
+    "Muffin",
+    "Kuchen"
+  ],
+  "Schokolade": [
+    "Gummibärchen",
+    "Kekse",
+    "Riegel"
+  ],
+  "Gummibärchen": [
+    "Schokolade",
+    "Bonbons",
+    "Lakritz"
+  ],
+  "Eis": [
+    "Kuchen",
+    "Waffel",
+    "Joghurt"
+  ],
+  "Kuchen": [
+    "Torte",
+    "Muffin",
+    "Kekse"
+  ],
+  "Muffin": [
+    "Kuchen",
+    "Brownie",
+    "Donut"
+  ],
+  "Donut": [
+    "Muffin",
+    "Berliner",
+    "Krapfen"
+  ],
+  "Ketchup": [
+    "Mayonnaise",
+    "Senf",
+    "Currysoße"
+  ],
+  "Mayonnaise": [
+    "Ketchup",
+    "Remoulade",
+    "Senf"
+  ],
+  "Senf": [
+    "Ketchup",
+    "Meerrettich",
+    "Mayonnaise"
+  ],
+  "Honig": [
+    "Marmelade",
+    "Nutella",
+    "Butter"
+  ],
+  "Marmelade": [
+    "Honig",
+    "Nutella",
+    "Croissant"
+  ],
+  "Nutella": [
+    "Marmelade",
+    "Honig",
+    "Toast"
+  ],
+  "Öl": [
+    "Essig",
+    "Butter",
+    "Margarine"
+  ],
+  "Essig": [
+    "Öl",
+    "Zitrone",
+    "Senf"
+  ],
+  "Salz": [
+    "Pfeffer",
+    "Kräuter",
+    "Paprika"
+  ],
+  "Pfeffer": [
+    "Salz",
+    "Chili",
+    "Curry"
+  ],
+  "Wasser": [
+    "Apfelsaft",
+    "Sprudel",
+    "Eistee"
+  ],
+  "Apfelsaft": [
+    "Orangensaft",
+    "Wasser",
+    "Traubensaft"
+  ],
+  "Papaya": [
+    "Huhn",
+    "Kabeljau",
+    "Haselnuss"
+  ],
+  "Cantaloupe": [
+    "Lutscher",
+    "Eisbergsalat",
+    "Mango"
+  ],
+  "Litschi": [
+    "Dill",
+    "Gurke",
+    "Topinambur"
+  ],
+  "Dattel": [
+    "Eistee",
+    "Paprikapulver",
+    "Kaktusfeige"
+  ],
+  "Feige": [
+    "Worcestersauce",
+    "Guacamole",
+    "Pekannuss"
+  ],
+  "Granatapfel": [
+    "Skyr",
+    "Pak Choi",
+    "Kaktusfeige"
+  ],
+  "Guave": [
+    "Margarine",
+    "Bier",
+    "Hanfsamen"
+  ],
+  "Kaktusfeige": [
+    "Wirsing",
+    "Olivenöl",
+    "Cashew"
+  ],
+  "Maracuja": [
+    "Gummibärchen",
+    "Chips",
+    "Kürbiskerne"
+  ],
+  "Sternfrucht": [
+    "Erdbeere",
+    "Eisbergsalat",
+    "Bier"
+  ],
+  "Kaki": [
+    "Salzstangen",
+    "Pistazie",
+    "Ziegenkäse"
+  ],
+  "Mirabelle": [
+    "Kreuzkümmel",
+    "Kardamom",
+    "Teff"
+  ],
+  "Johannisbeere": [
+    "Lutscher",
+    "Kabeljau",
+    "Pfifferling"
+  ],
+  "Brombeere": [
+    "Donut",
+    "Apfel",
+    "Falafel"
+  ],
+  "Himbeere": [
+    "Weißwein",
+    "Zucchini",
+    "Focaccia"
+  ],
+  "Pflaume": [
+    "Schweinefleisch",
+    "Pekannuss",
+    "Erdbeere"
+  ],
+  "Sellerie": [
+    "Sorbet",
+    "Yucca",
+    "Salz"
+  ],
+  "Rettich": [
+    "Champignon",
+    "Americano",
+    "Languste"
+  ],
+  "Rote Bete": [
+    "Koriander",
+    "Mayonnaise",
+    "Erdnussbutter"
+  ],
+  "Fenchel": [
+    "Muffin",
+    "Süßkartoffel",
+    "Popcorn"
+  ],
+  "Chicorée": [
+    "Cola",
+    "Frischkäse",
+    "Palatschinken"
+  ],
+  "Endivie": [
+    "Espresso",
+    "Kefir",
+    "Enoki"
+  ],
+  "Mangold": [
+    "Pastinake",
+    "Gerste",
+    "Oregano"
+  ],
+  "Weißkohl": [
+    "Kirsche",
+    "Shiitake",
+    "Rosmarin"
+  ],
+  "Rotkohl": [
+    "Maniok",
+    "Avocadoöl",
+    "Aioli"
+  ],
+  "Wirsing": [
+    "Grüner Tee",
+    "Grünkern",
+    "Pinienkerne"
+  ],
+  "Rosenkohl": [
+    "Pfeffer",
+    "Morchel",
+    "Falafel"
+  ],
+  "Grünkohl": [
+    "Birne",
+    "Sojasauce",
+    "Salzstangen"
+  ],
+  "Chinakohl": [
+    "Matcha",
+    "Kefir",
+    "Edamame"
+  ],
+  "Pak Choi": [
+    "Torte",
+    "Karotte",
+    "Oolong"
+  ],
+  "Steckrübe": [
+    "Muschel",
+    "Sellerie",
+    "Pfirsich"
+  ],
+  "Topinambur": [
+    "Ziegenkäse",
+    "Worcestersauce",
+    "Kekse"
+  ],
+  "Yucca": [
+    "Apfelsaft",
+    "Sojabohnen",
+    "Schokoriegel"
+  ],
+  "Maniok": [
+    "Ananas",
+    "Grünkohl",
+    "Rosé"
+  ],
+  "Okra": [
+    "Weißkohl",
+    "Schnittlauch",
+    "Öl"
+  ],
+  "Zuckerschote": [
+    "Krabbe",
+    "Bohne",
+    "Sekt"
+  ],
+  "Schwarzwurzel": [
+    "Spaghetti",
+    "Endivie",
+    "Ravioli"
+  ],
+  "Pastinake": [
+    "BBQ-Sauce",
+    "Joghurt",
+    "Salz"
+  ],
+  "Basilikum": [
+    "Eis",
+    "Ciabatta",
+    "Kürbis"
+  ],
+  "Petersilie": [
+    "Tintenfisch",
+    "Reh",
+    "Dill"
+  ],
+  "Dill": [
+    "Pak Choi",
+    "Porcini",
+    "Kichererbsen"
+  ],
+  "Schnittlauch": [
+    "Chiasamen",
+    "Toast",
+    "Hirse"
+  ],
+  "Minze": [
+    "Limette",
+    "Waffel",
+    "Heidelbeere"
+  ],
+  "Koriander": [
+    "Chinakohl",
+    "Dattel",
+    "Hirsch"
+  ],
+  "Rosmarin": [
+    "Skyr",
+    "Porcini",
+    "Lamm"
+  ],
+  "Thymian": [
+    "Paprika",
+    "Limonade",
+    "Tiramisu"
+  ],
+  "Oregano": [
+    "Sojabohnen",
+    "Weißwein",
+    "Schweinefleisch"
+  ],
+  "Salbei": [
+    "Matcha",
+    "Minze",
+    "Chiasamen"
+  ],
+  "Zimt": [
+    "Wassermelone",
+    "Hirsch",
+    "Donauwelle"
+  ],
+  "Paprikapulver": [
+    "Relish",
+    "Fischstäbchen",
+    "Blumenkohl"
+  ],
+  "Kreuzkümmel": [
+    "Reis",
+    "Bier",
+    "Haselnuss"
+  ],
+  "Kardamom": [
+    "Edamame",
+    "Orange",
+    "Champignon"
+  ],
+  "Muskat": [
+    "Pfeffer",
+    "Frischkäse",
+    "Sonnenblumenöl"
+  ],
+  "Chili-Flocken": [
+    "Gugelhupf",
+    "Zucchini",
+    "Roggen"
+  ],
+  "Kurkumapulver": [
+    "Wassermelone",
+    "Roggen",
+    "Wildschwein"
+  ],
+  "Nelke": [
+    "Schweinefleisch",
+    "Dill",
+    "Heilbutt"
+  ],
+  "Lorbeerblatt": [
+    "Falafel",
+    "Burger",
+    "Kabeljau"
+  ],
+  "Safran": [
+    "Lorbeerblatt",
+    "Sojasauce",
+    "Ingwer"
+  ],
+  "Hirse": [
+    "Gummibärchen",
+    "Schweinefleisch",
+    "Garnelen"
+  ],
+  "Buchweizen": [
+    "Bagel",
+    "Spinat",
+    "Kimchi"
+  ],
+  "Gerste": [
+    "Zucchini",
+    "Schwarzer Tee",
+    "Buttermilch"
+  ],
+  "Dinkel": [
+    "Marmelade",
+    "Pistazie",
+    "Nudeln"
+  ],
+  "Roggen": [
+    "Reis",
+    "Früchtetee",
+    "Mayonnaise"
+  ],
+  "Grünkern": [
+    "Zuckerschote",
+    "Dattel",
+    "Maniok"
+  ],
+  "Hafer": [
+    "Chiasamen",
+    "Pak Choi",
+    "Yucca"
+  ],
+  "Amaranth": [
+    "Guacamole",
+    "Penne",
+    "Salzstangen"
+  ],
+  "Teff": [
+    "Spaghetti",
+    "Flat White",
+    "Chips"
+  ],
+  "Leinsamen": [
+    "Paprika",
+    "Senf",
+    "Teriyaki-Sauce"
+  ],
+  "Chiasamen": [
+    "Gurke",
+    "Dinkel",
+    "Radieschen"
+  ],
+  "Hanfsamen": [
+    "Wasser",
+    "Penne",
+    "Mangold"
+  ],
+  "Kürbiskerne": [
+    "Farfalle",
+    "Relish",
+    "Kekse"
+  ],
+  "Sonnenblumenkerne": [
+    "Kürbiskerne",
+    "Fischstäbchen",
+    "Streuselkuchen"
+  ],
+  "Erdnuss": [
+    "Schwarzer Tee",
+    "Knoblauch",
+    "Espresso"
+  ],
+  "Macadamia": [
+    "Nudeln",
+    "Sauerkraut",
+    "Pinienkerne"
+  ],
+  "Paranuss": [
+    "Banane",
+    "Linsen",
+    "Hafermilch"
+  ],
+  "Pekannuss": [
+    "Tintenfisch",
+    "Cashew",
+    "Weißwein"
+  ],
+  "Pinienkerne": [
+    "Tortellini",
+    "Sonnenblumenkerne",
+    "Gorgonzola"
+  ],
+  "Pistazie": [
+    "Teriyaki-Sauce",
+    "Ziegenkäse",
+    "Eier"
+  ],
+  "Haselnuss": [
+    "Fischstäbchen",
+    "Roggen",
+    "Kiwi"
+  ],
+  "Walnuss": [
+    "Nutella",
+    "Schweinefleisch",
+    "Ananas"
+  ],
+  "Mandel": [
+    "Erdnuss",
+    "Wasser",
+    "Zucchini"
+  ],
+  "Cashew": [
+    "Austern",
+    "Kartoffel",
+    "Buchweizen"
+  ],
+  "Sojabohnen": [
+    "Lamm",
+    "Eisbergsalat",
+    "Muffin"
+  ],
+  "Kichererbsen": [
+    "Lupine",
+    "Bohne",
+    "Makrele"
+  ],
+  "Lupine": [
+    "Lauch",
+    "Ciabatta",
+    "Cashew"
+  ],
+  "Edamame": [
+    "Steckrübe",
+    "Hirse",
+    "Matcha"
+  ],
+  "Ziegenkäse": [
+    "Tagliatelle",
+    "Austern",
+    "Marmelade"
+  ],
+  "Schafskäse": [
+    "Limette",
+    "Tagliatelle",
+    "Zuckerschote"
+  ],
+  "Gouda": [
+    "Pfeffer",
+    "Buttermilch",
+    "Süßkartoffel"
+  ],
+  "Emmentaler": [
+    "Kichererbsen",
+    "Müsli",
+    "Rindfleisch"
+  ],
+  "Camembert": [
+    "Honigmelone",
+    "Walnuss",
+    "Mango"
+  ],
+  "Brie": [
+    "Senf",
+    "Kabeljau",
+    "Kirsche"
+  ],
+  "Parmesan": [
+    "Amaranth",
+    "Penne",
+    "Grüner Tee"
+  ],
+  "Pecorino": [
+    "Lutscher",
+    "Streuselkuchen",
+    "Reis"
+  ],
+  "Gorgonzola": [
+    "Eisbergsalat",
+    "Kokosöl",
+    "Gans"
+  ],
+  "Ricotta": [
+    "Okra",
+    "Zitrone",
+    "Guacamole"
+  ],
+  "Mascarpone": [
+    "Müsli",
+    "Reis",
+    "Kürbiskerne"
+  ],
+  "Kefir": [
+    "Kichererbsen",
+    "Cornflakes",
+    "Gugelhupf"
+  ],
+  "Skyr": [
+    "Tomate",
+    "Chips",
+    "Guacamole"
+  ],
+  "Buttermilch": [
+    "Oregano",
+    "Karotte",
+    "Apfel"
+  ],
+  "Lamm": [
+    "Parmesan",
+    "Erdnuss",
+    "Popcorn"
+  ],
+  "Kalbfleisch": [
+    "Cappuccino",
+    "Burger",
+    "Schokolade"
+  ],
+  "Wildschwein": [
+    "Mayonnaise",
+    "Kekse",
+    "Rotkohl"
+  ],
+  "Reh": [
+    "Chiasamen",
+    "Wassermelone",
+    "Salzbrezel"
+  ],
+  "Hirsch": [
+    "Reh",
+    "Zucchini",
+    "Pflaume"
+  ],
+  "Ente": [
+    "Weißkohl",
+    "Rosmarin",
+    "Chiasamen"
+  ],
+  "Gans": [
+    "Donut",
+    "Endivie",
+    "Mandel"
+  ],
+  "Kabeljau": [
+    "Pflaume",
+    "Gummibärchen",
+    "Krabbe"
+  ],
+  "Hering": [
+    "Torte",
+    "Ziegenkäse",
+    "Bier"
+  ],
+  "Heilbutt": [
+    "Tofu",
+    "Kefir",
+    "Bier"
+  ],
+  "Makrele": [
+    "Kirsche",
+    "Gummibärchen",
+    "Limonade"
+  ],
+  "Muschel": [
+    "Orange",
+    "Buttermilch",
+    "Ketchup"
+  ],
+  "Austern": [
+    "Hotdog",
+    "Ananas",
+    "Wassermelone"
+  ],
+  "Oktopus": [
+    "Amaranth",
+    "Sojasauce",
+    "Banane"
+  ],
+  "Seezunge": [
+    "Paprika",
+    "Kopfsalat",
+    "Quark"
+  ],
+  "Scholle": [
+    "Sekt",
+    "Burger",
+    "Chips"
+  ],
+  "Krabbe": [
+    "Gorgonzola",
+    "Honigmelone",
+    "Seezunge"
+  ],
+  "Hummer": [
+    "Porcini",
+    "Rotwein",
+    "Kürbiskerne"
+  ],
+  "Languste": [
+    "Rosenkohl",
+    "Tofu",
+    "Ziegenkäse"
+  ],
+  "Tintenfisch": [
+    "Sojasauce",
+    "Kaki",
+    "Sesamöl"
+  ],
+  "Shiitake": [
+    "Hirsch",
+    "Erbse",
+    "Thunfisch"
+  ],
+  "Pfifferling": [
+    "Hering",
+    "Bier",
+    "Walnuss"
+  ],
+  "Morchel": [
+    "Müsli",
+    "Shiitake",
+    "Porcini"
+  ],
+  "Enoki": [
+    "Wirsing",
+    "Gugelhupf",
+    "Ricotta"
+  ],
+  "Porcini": [
+    "Pflaume",
+    "Wildschwein",
+    "Mangold"
+  ],
+  "Trüffel": [
+    "Bagel",
+    "Reh",
+    "Eistee"
+  ],
+  "Ciabatta": [
+    "Champignon",
+    "Pak Choi",
+    "Schnittlauch"
+  ],
+  "Focaccia": [
+    "Aioli",
+    "Camembert",
+    "Rapsöl"
+  ],
+  "Baguette": [
+    "Kiwi",
+    "Donauwelle",
+    "Endivie"
+  ],
+  "Pasta": [
+    "Schnittlauch",
+    "Brokkoli",
+    "Hafer"
+  ],
+  "Spaghetti": [
+    "Lamm",
+    "Sojamilch",
+    "Sesamöl"
+  ],
+  "Ravioli": [
+    "Kopfsalat",
+    "Pizza",
+    "Lamm"
+  ],
+  "Tortellini": [
+    "Honigmelone",
+    "Scholle",
+    "Kalbfleisch"
+  ],
+  "Tagliatelle": [
+    "Pfifferling",
+    "Hafermilch",
+    "Maccheroni"
+  ],
+  "Penne": [
+    "Cannelloni",
+    "Schokolade",
+    "Muffin"
+  ],
+  "Farfalle": [
+    "Paranuss",
+    "Donauwelle",
+    "Makrele"
+  ],
+  "Maccheroni": [
+    "Kekse",
+    "Thymian",
+    "Kaiserschmarrn"
+  ],
+  "Cannelloni": [
+    "Quark",
+    "Gouda",
+    "Pinienkerne"
+  ],
+  "Torte": [
+    "Pizza",
+    "Kichererbsen",
+    "Donauwelle"
+  ],
+  "Tiramisu": [
+    "Sauerkraut",
+    "Lauch",
+    "Papaya"
+  ],
+  "Strudel": [
+    "Topinambur",
+    "Senf",
+    "Limonade"
+  ],
+  "Apfelstrudel": [
+    "Teff",
+    "Kardamom",
+    "Gorgonzola"
+  ],
+  "Gugelhupf": [
+    "Blumenkohl",
+    "Paprikapulver",
+    "Flat White"
+  ],
+  "Donauwelle": [
+    "Shiitake",
+    "Gurke",
+    "Makrele"
+  ],
+  "Streuselkuchen": [
+    "Pastinake",
+    "Parmesan",
+    "Guave"
+  ],
+  "Panna Cotta": [
+    "Pistazie",
+    "Garnelen",
+    "Forelle"
+  ],
+  "Sorbet": [
+    "Frischkäse",
+    "Sojabohnen",
+    "Eis"
+  ],
+  "Bagel": [
+    "Limette",
+    "Shiitake",
+    "Cider"
+  ],
+  "Salzbrezel": [
+    "Reh",
+    "Cannelloni",
+    "Mais"
+  ],
+  "Müsliriegel": [
+    "Bohne",
+    "Hummer",
+    "Espresso"
+  ],
+  "Studentenfutter": [
+    "Grüner Tee",
+    "Tofu",
+    "Muffin"
+  ],
+  "Proteinriegel": [
+    "Chips",
+    "Guave",
+    "Eis"
+  ],
+  "Macaron": [
+    "Sellerie",
+    "Limette",
+    "Salsa"
+  ],
+  "Waffel": [
+    "Fischstäbchen",
+    "Macaron",
+    "Sojabohnen"
+  ],
+  "Lutscher": [
+    "Salbei",
+    "Sonnenblumenkerne",
+    "Eier"
+  ],
+  "Schokoriegel": [
+    "Heilbutt",
+    "Okra",
+    "Kekse"
+  ],
+  "Pfannkuchen": [
+    "Pekannuss",
+    "Haferbrei",
+    "Hanfsamen"
+  ],
+  "Haferbrei": [
+    "Olivenöl",
+    "Lasagne",
+    "Parmesan"
+  ],
+  "Kaiserschmarrn": [
+    "Schwarzer Tee",
+    "Lorbeerblatt",
+    "Chicorée"
+  ],
+  "Palatschinken": [
+    "Pecorino",
+    "Pistazie",
+    "Buttermilch"
+  ],
+  "Porridge": [
+    "Apfelstrudel",
+    "Sojasauce",
+    "Lorbeerblatt"
+  ],
+  "BBQ-Sauce": [
+    "Heilbutt",
+    "Hering",
+    "Cornflakes"
+  ],
+  "Sojasauce": [
+    "Chips",
+    "Burger",
+    "Orange"
+  ],
+  "Teriyaki-Sauce": [
+    "Limonade",
+    "Guacamole",
+    "Sojamilch"
+  ],
+  "Pesto": [
+    "Feige",
+    "Sojasauce",
+    "Frischkäse"
+  ],
+  "Guacamole": [
+    "Schwarzwurzel",
+    "Muffin",
+    "Parmesan"
+  ],
+  "Sauerkraut": [
+    "Couscous",
+    "Karotte",
+    "Heidelbeere"
+  ],
+  "Kimchi": [
+    "Margarine",
+    "Edamame",
+    "Sorbet"
+  ],
+  "Relish": [
+    "Roggen",
+    "Käse",
+    "Ravioli"
+  ],
+  "Salsa": [
+    "Gouda",
+    "Pak Choi",
+    "Müsliriegel"
+  ],
+  "Aioli": [
+    "Rettich",
+    "Kekse",
+    "Oolong"
+  ],
+  "Worcestersauce": [
+    "Flat White",
+    "Bohne",
+    "Porridge"
+  ],
+  "Erdnussbutter": [
+    "Muffin",
+    "Honigmelone",
+    "Kuchen"
+  ],
+  "Olivenöl": [
+    "Pesto",
+    "Heilbutt",
+    "Guave"
+  ],
+  "Sesamöl": [
+    "Porcini",
+    "Kabeljau",
+    "Zuckerschote"
+  ],
+  "Kokosöl": [
+    "Mango",
+    "Garnelen",
+    "Skyr"
+  ],
+  "Avocadoöl": [
+    "Donut",
+    "Trüffel",
+    "Bier"
+  ],
+  "Sonnenblumenöl": [
+    "Lauch",
+    "Parmesan",
+    "Quinoa"
+  ],
+  "Rapsöl": [
+    "Kabeljau",
+    "Sonnenblumenkerne",
+    "Fenchel"
+  ],
+  "Espresso": [
+    "Palatschinken",
+    "Tagliatelle",
+    "Brokkoli"
+  ],
+  "Latte Macchiato": [
+    "Panna Cotta",
+    "Milch",
+    "Pastinake"
+  ],
+  "Cappuccino": [
+    "Palatschinken",
+    "Proteinriegel",
+    "Flat White"
+  ],
+  "Americano": [
+    "Kalbfleisch",
+    "Gugelhupf",
+    "Zuckerschote"
+  ],
+  "Flat White": [
+    "Marmelade",
+    "Rettich",
+    "Avocadoöl"
+  ],
+  "Grüner Tee": [
+    "Ziegenkäse",
+    "Kekse",
+    "Kurkumapulver"
+  ],
+  "Schwarzer Tee": [
+    "Pizza",
+    "Tagliatelle",
+    "Champignon"
+  ],
+  "Kräutertee": [
+    "Champignon",
+    "Streuselkuchen",
+    "Kalbfleisch"
+  ],
+  "Früchtetee": [
+    "Bier",
+    "Heilbutt",
+    "Grüner Tee"
+  ],
+  "Oolong": [
+    "Brötchen",
+    "Zuckerschote",
+    "Sorbet"
+  ],
+  "Matcha": [
+    "Rettich",
+    "Frischkäse",
+    "Kardamom"
+  ],
+  "Bier": [
+    "Falafel",
+    "Lupine",
+    "Croissant"
+  ],
+  "Rotwein": [
+    "Tofu",
+    "Knoblauch",
+    "Kräutertee"
+  ],
+  "Weißwein": [
+    "Cantaloupe",
+    "Birne",
+    "Tomate"
+  ],
+  "Rosé": [
+    "Kabeljau",
+    "Schwarzer Tee",
+    "Proteinriegel"
+  ],
+  "Sekt": [
+    "Sojamilch",
+    "Gugelhupf",
+    "Kräutertee"
+  ],
+  "Champagner": [
+    "Pistazie",
+    "Pekannuss",
+    "Müsli"
+  ],
+  "Cider": [
+    "Orange",
+    "Weißkohl",
+    "Sellerie"
+  ],
+  "Cola": [
+    "Lutscher",
+    "Buchweizen",
+    "Dill"
+  ],
+  "Eistee": [
+    "Pflaume",
+    "Erdbeere",
+    "Waffel"
+  ],
+  "Limonade": [
+    "Cashew",
+    "Porridge",
+    "Paranuss"
+  ]
+}
